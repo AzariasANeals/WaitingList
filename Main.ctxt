@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ This\ is\ my\ Main\ class.\ \r\n\ \r\n\ It\ will\ then\ display\ a\r\nMenu\ giving\ you\ the\ option\ to\ add\ a\ person\ to\ your\ wait\ list,\ serve\ a\ person,\ find\ a\ person\r\nin\ the\ list,\ get\ a\ total\ number\ of\ people\ waiting,\ display\ the\ waiting\ list,\ or\ quit\ the\ \r\napplication.\ You\ will\ then\ enter\ in\ an\ option\ number\ depending\ on\ what\ you\ would\ like\ to\ do.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ menu()
+comment3.params=option\ waiting\ s
+comment3.target=void\ executeOption(int,\ WaitingList,\ java.util.Scanner)
+comment4.params=waiting
+comment4.target=void\ addPersonToListOption(WaitingList)
+comment5.params=waiting
+comment5.target=void\ servePersonOption(WaitingList)
+comment6.params=waiting
+comment6.target=void\ findPersonOption(WaitingList)
+comment7.params=waiting
+comment7.target=void\ getTotalPeopleWaitingOption(WaitingList)
+comment8.params=waiting
+comment8.target=void\ displayWaitingListOption(WaitingList)
+numComments=9

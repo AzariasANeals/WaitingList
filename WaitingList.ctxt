@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=WaitingList
+comment1.params=
+comment1.target=WaitingList()
+comment2.params=name
+comment2.target=void\ addPerson(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ servePerson()
+comment4.params=name
+comment4.target=boolean\ isPersonInList(java.lang.String)
+comment5.params=
+comment5.target=int\ waitingListSize()
+comment6.params=
+comment6.target=void\ displayWaitingList()
+numComments=7
